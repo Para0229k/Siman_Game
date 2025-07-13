@@ -1,4 +1,4 @@
-# Siman Game
+# Simon Game
 
 為了練習前端網頁設計，用JavaScript, HTML, CSS製作而成的網頁遊戲。  
 以經典桌遊Simon Game為主題，規則相同("Do what Simon says")。  
